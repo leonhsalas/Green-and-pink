@@ -1,5 +1,36 @@
-main{
+#main{
     background-color: red;
     width: 100%;
     height: 100vh;
+    display: flex;
+}
+
+.text{
+    color: white;
+}
+
+.text2{
+    margin-top: 650px;
+}
+
+#t1{
+    margin-left: 90px;
+    margin-top: 40px;
+}
+
+#t2{
+    margin-left: -150px;
+}
+
+#t3{
+    margin-left: 180px;
+}
+
+#t4{
+    margin-left: 130px;
+}
+
+#t5{
+    margin-top: 40px;
+    margin-left: 100px;
 }
